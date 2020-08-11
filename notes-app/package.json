@@ -1,0 +1,30 @@
+{
+  "name": "notes-app",
+  "version": "1.0.0",
+  "description": "A simple notes application to learn the basics of module imports.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ImRohan01/Notes-App.git"
+  },
+  "keywords": [
+    "node.js",
+    "module-imports",
+    "notes"
+  ],
+  "author": "Rohan Shetty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ImRohan01/Notes-App/issues"
+  },
+  "homepage": "https://github.com/ImRohan01/Notes-App#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "nodemon": "^2.0.4",
+    "validator": "^13.1.1",
+    "yargs": "^15.4.1"
+  }
+}
